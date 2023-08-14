@@ -2,7 +2,7 @@
   "name": "vscode-typescript-debugging",
   "version": "1.0.0",
   "devDependencies": {
-    "typescript": "^3.4.1"
+    "typescript": "^5.1.6"
   },
   "scripts": {
     "start": "node out/app.js",
