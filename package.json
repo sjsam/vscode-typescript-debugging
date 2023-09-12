@@ -15,5 +15,8 @@
     "Debugging"
   ],
   "author": "Philipp Kief",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^7.8.1"
+  }
 }
